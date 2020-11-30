@@ -15,23 +15,23 @@ This tool uses Microsoft.Office.Interop.Word library.
 
 ## Download
 
-[WordToPDF.exe](bin/WordToPDF.exe)
+[WordToPDF.zip](bin/WordToPDF.zip)
 
 *****
 
-Microsoft Wordƒtƒ@ƒCƒ‹(.dox, doc)‚ðPDF‚É•ÏŠ·‚·‚éAWindows FormƒAƒvƒŠ‚Å‚·B  
-ƒ‰ƒCƒuƒ‰ƒŠ‚Æ‚µ‚ÄAMicrosoft.Office.Interop.Word library‚ðŽg—p‚µ‚Ä‚¢‚Ü‚·B
+Microsoft Wordãƒ•ã‚¡ã‚¤ãƒ«(.dox, doc)ã‚’PDFã«å¤‰æ›ã™ã‚‹ã€Windows Formã‚¢ãƒ—ãƒªã§ã™ã€‚  
+ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã¨ã—ã¦ã€Microsoft.Office.Interop.Word libraryã‚’ä½¿ç”¨ã—ã¦ã„ã¾ã™ã€‚
 
-## •K—v‚È‚à‚Ì
-- .NET Framework 4.6.1‚©‚»‚êˆÈ~
-- Microsoft Word 2013‚©‚»‚êˆÈ~
-- Windows 8.1‚©‚»‚êˆÈ~
+## å¿…è¦ãªã‚‚ã®
+- .NET Framework 4.6.1ã‹ãã‚Œä»¥é™
+- Microsoft Word 2013ã‹ãã‚Œä»¥é™
+- Windows 8.1ã‹ãã‚Œä»¥é™
 
-## Šî–{“I‚ÈŽg—p–@
-1. WordToPDF.exe‚ðŠJ‚­B
-2. “ü—ÍƒpƒX‚Æo—ÍƒpƒX‚ðŽw’è‚·‚éiƒfƒtƒHƒ‹ƒg‚Åexe‚Ì’u‚«êŠ‚ªƒZƒbƒg‚³‚ê‚éjB
-3. u•ÏŠ·vƒ{ƒ^ƒ“‚ð‰Ÿ‚·B
+## åŸºæœ¬çš„ãªä½¿ç”¨æ³•
+1. WordToPDF.exeã‚’é–‹ãã€‚
+2. å…¥åŠ›ãƒ‘ã‚¹ã¨å‡ºåŠ›ãƒ‘ã‚¹ã‚’æŒ‡å®šã™ã‚‹ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã§exeã®ç½®ãå ´æ‰€ãŒã‚»ãƒƒãƒˆã•ã‚Œã‚‹ï¼‰ã€‚
+3. ã€Œå¤‰æ›ã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã€‚
 
-## ƒ_ƒEƒ“ƒ[ƒh
-‚±‚¿‚ç‚©‚ç  
-[WordToPDF.exe](bin/WordToPDF.exe)
+## ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰
+ã“ã¡ã‚‰ã‹ã‚‰  
+[WordToPDF.zip](bin/WordToPDF.zip)
